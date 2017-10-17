@@ -1,0 +1,40 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/login",
+  "pageRefresh": 1,
+  "components" : [
+    {
+      "msv-id" : "login",
+      "type" : "TYPE_BODY"
+    },
+    {
+      "msv-id" : "main-css",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "main-js",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "placeholder",
+      "containerId" : 1,
+      "type" : "TYPE_COMPONENT",
+      "height" : "80px",
+      "color" : "yellow",
+      "title" : "Small Checkout Kombishopping header"
+    },
+    {
+      "msv-id" : "placeholder",
+      "containerId" : 2,
+      "type" : "TYPE_COMPONENT",
+      "height" : "160px",
+      "color" : "grey",
+      "title" : "Checkout Footer"
+    }
+  ],
+  "page": null
+}

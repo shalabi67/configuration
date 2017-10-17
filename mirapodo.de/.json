@@ -1,0 +1,251 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 10000,
+  "page": {
+    "libs" : ["global-js", "global-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "div#top.main-container.shadow":[
+              ["header"],
+              {
+                "div.padding20.padding15-top" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.padding20-left.padding20-right.padding10-top" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Slider",
+                    "height" : "470px",
+                    "color" : "yellow"
+                  }
+                ]
+              },
+              {
+                "div.padding20-left.padding20-right.padding10-top" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Top Kategorien",
+                    "height" : "300px",
+                    "color" : "grey"
+                  }
+                ]
+              },
+              {
+                "div.w100.padding20-top" :[
+                  {
+                    "div.w25.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "200px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.w25.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "200px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.w55.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "200px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.teaser.padding20-top" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Teaser (Knaller der Woche)",
+                    "height" : "255px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.teaser.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Teaser",
+                    "height" : "255px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.special-teaser.w100" :[
+                  {
+                    "div.panel.w50.padding10-right.padding10-top":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "325px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding10-top":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "325px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.marken-banner.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Markenbanner mit bewegenden Logos",
+                    "height" : "95px",
+                    "color" : "#EEE"
+                  }
+                ]
+              },
+              {
+                "div.special-teaser.w100" :[
+                  {
+                    "div.panel.w50.padding10-right.padding10-top":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "325px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding10-top":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Teaser",
+                        "height" : "325px",
+                        "color" : "rgba(255, 18, 2, 0.31)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.karusell.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Karusell mit 5 Produkten",
+                    "height" : "400px",
+                    "color" : "rgba(88, 255, 0, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.text.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Media Text (aufklappbar): Kinderwuensche sind unser Spezialgebiet!",
+                    "height" : "100px",
+                    "color" : "#EEE"
+                  }
+                ]
+              },
+              {
+                "div.newsletter.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Newsletter Anmeldung (Formular)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.recommendations.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Empfehlungen (Redaktion, Social Media, Unsere Blogs, App Empfehlungen)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.kombishopping-teaser.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Kombishopping Teaser : mytoys, mirapodo, ambellis, yomonda",
+                    "height" : "150px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Service, myTyoys, Lieferung, Zahlungsarten",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.wins.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Unsere Filialen, Sicher einkaufen, Unsere Auszeichnungen",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Spielzeug Marken, Kindermode Marken, Baby Marken, Top ...",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.small-footer.w100.padding10-top":[
+                  ["copyright"]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

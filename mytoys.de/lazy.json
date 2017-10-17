@@ -1,0 +1,45 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 1,
+  "page": {
+    "libs" : ["global-js", "global-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "div#top.main-container.shadow":[
+                ["!header"]
+              ,
+              {
+                "div.padding20[load:lazy]" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei 1",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.padding20[load:delayed]" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei 2",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

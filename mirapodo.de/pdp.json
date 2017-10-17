@@ -1,0 +1,291 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 3000,
+  "page": {
+    "libs" : ["main-js", "main-css", "specific-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "div#top.main-container.shadow":[
+              {
+                "header#header.header":[
+                  {
+                    "div.kombishopping":[
+                      {
+                        "div.panel.w25.padding5":[]
+                      },
+                      {
+                        "div.panel.w50.padding5":[
+                          {
+                            "msv-id":"placeholder",
+                            "title": "Kombishopping Logo",
+                            "height" : "40px",
+                            "color" : "rgba(255, 204, 14, 0.65)"
+                          }
+                        ]
+                      },
+                      {
+                        "div.panel.w25.padding5":[
+                          {
+                            "msv-id":"placeholder",
+                            "title": "User, Merkzettel, Mein Konto",
+                            "height" : "40px",
+                            "color" : "rgba(255, 204, 14, 0.65)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w100": [
+                      {
+                        "div.shopswitch-buttons.w50.padding5-top.padding5-bottom.padding5-right":[
+                          {
+                            "msv-id": "placeholder",
+                            "title" : "Shop Switch Buttons",
+                            "height" : "60px",
+                            "color" : "rgba(255, 204, 14, 0.65)"
+
+                          }
+                        ]
+                      },
+                      {
+                        "div.panel.w25.padding5":[]
+                      },
+                      {
+                        "div.shoppingcart.w25.padding5":[
+                          {
+                            "msv-id": "placeholder",
+                            "title" : "Ihr Warenkorb",
+                            "height" : "60px",
+                            "color" : "rgba(255, 204, 14, 0.65)"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w100.padding5-top": [
+                      {
+                        "msv-id": "placeholder",
+                        "title" : "Logo links und Sucheingabe Feld",
+                        "height" : "106px",
+                        "color" : "rgba(255, 204, 14, 0.65)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w100.padding5-top": [
+                      {
+                        "msv-id": "placeholder",
+                        "title" : "Navigation zum Ausklappen",
+                        "height" : "50px",
+                        "color" : "rgba(255, 204, 14, 0.65)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "breadcrumps",
+                    "height" : "20px",
+                    "color" : "rgba(200, 200, 200, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding10-top": [
+                  {
+                    "div.panel.w66.padding10-top.padding5-right": [
+                      {
+                        "msv-id": "placeholder",
+                        "title": "Marken Box",
+                        "height": "80px"
+                      },
+                      {
+                        "div.panel-bildbox.padding10-top": [
+                          {
+                            "msv-id": "placeholder",
+                            "title": "Bildbox",
+                            "height": "700px",
+                            "color" :"rgba(88, 255, 0, 0.65"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w33.padding10-top.padding5-left": [
+                      {
+                        "msv-id": "placeholder",
+                        "title": "Headline und Bewertungen",
+                        "height": "80px"
+                      },
+                      {
+                        "div.panel.padding10-top":[
+                          {
+                            "msv-id": "placeholder",
+                            "title": "Pricing und Warenkorb Button",
+                            "height": "450px"
+                          },
+                          {
+                            "msv-id": "placeholder",
+                            "title": "Payback Punkte",
+                            "height": "100px"
+                          }
+                        ]
+                      },
+                      {
+                        "div.panel.w100.padding10-top": [
+                          {
+                            "div.panel-left.w66.": [
+                              {
+                                "msv-id": "placeholder",
+                                "title": "Vorteile Mytoys",
+                                "height": "140px",
+                                "color": "rgba(200,200,200,0.3)"
+                              }
+                            ]
+                          },
+                          {
+                            "div.panel-left.w33": [
+                              {
+                                "msv-id": "placeholder",
+                                "title": "Share",
+                                "height": "50px"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Kundenbewertungen (Balkendiagramme) und Bewertung schreiben",
+                    "height" : "250px",
+                    "color" : "rgba(200, 200, 200, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Produktkarusell (5 Produkte)",
+                    "height" : "400px",
+                    "color" : "rgba(88, 255, 0, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding10-top":[
+                  {
+                    "div.panel.w50.padding5-right":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Ähnliche Produkte finden Sie hier)",
+                        "height" : "250px",
+                        "color" : "rgba(200, 200, 200, 0.65)"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding5-left":[
+                      {
+                        "msv-id" : "placeholder",
+                        "title" : "Beliebte Themen zu <Kategorie>",
+                        "height" : "250px",
+                        "color" : "rgba(200, 200, 200, 0.65)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.newsletter.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Newsletter Anmeldung (Formular)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.recommendations.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Empfehlungen (Redaktion, Social Media, Unsere Blogs, App Empfehlungen)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.kombishopping-teaser.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Kombishopping Teaser : mytoys, mirapodo, ambellis, yomonda",
+                    "height" : "150px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Service, myTyoys, Lieferung, Zahlungsarten",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.wins.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Unsere Filialen, Sicher einkaufen, Unsere Auszeichnungen",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Spielzeug Marken, Kindermode Marken, Baby Marken, Top ...",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.small-footer.w100.padding10-top":[
+                  ["copyright"]
+                ]
+              }
+
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

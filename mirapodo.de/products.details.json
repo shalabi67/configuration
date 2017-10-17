@@ -1,0 +1,14 @@
+{
+  "shopId" : "mytoys.de",
+  "path" : "/products",
+  "components" : [
+    {
+      "frontendComponentId" : "product",
+      "type" : "TYPE_BODY"
+    },
+    {
+      "frontendComponentId" : "product-details",
+      "type" : "TYPE_COMPONENT"
+    }
+  ]
+}

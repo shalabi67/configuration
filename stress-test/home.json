@@ -1,0 +1,291 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 1000,
+  "page": {
+    "libs" : ["global-js", "global-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "div#top.main-container.shadow":[
+              {
+                "div.w100.w50-l" :[
+                  {
+                    "msv-id" : "hello",
+                    "title" : "Team Three",
+                    "height" : "100px",
+                    "color" : "rgba(10, 255, 2, 0.31)"
+                  }
+                ]
+              },
+
+              {
+                "div.w100.w50-l" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.w100.w50-l" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+
+
+
+
+              {
+                "div.karusell.padding20.padding0-s.padding50-l":[
+                  {
+                    "msv-id" : "!slider",
+                    "title" : "",
+                    "images" : [
+                      {
+                        "url" : "//mytoysgroup.scene7.com/is/image/myToysGroup/j_rabatt_fischertechnik?$rtf_mt_teaser-jumbo_xl$",
+                        "link" : "/ar-2936/",
+                        "alt" : "15% auf Fischertechnik",
+                        "title" : "zusätzlich 15% Rabatt auf Fischertechnik"
+                      },
+                      {
+                        "url" : "//mytoysgroup.scene7.com/is/image/myToysGroup/j_weihnachtscountdown_hasbro?$rtf_mt_teaser-jumbo_xl$",
+                        "link" : "/hasbro/",
+                        "alt" : "Zusätzlich 20% Rabatt auf Hasbro",
+                        "title" : "Zusätzlich 20% Rabatt auf Hasbro"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.w100.padding20-top" :[
+                  {
+                    "div.w50.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Adventskalender",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_adventskalender?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Adventskalender",
+                        "link" : "/adventskalender-essbar-pstk_adventskalender-pstk/"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding20-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Adventskalender",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_adventskalender?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Adventskalender",
+                        "link" : "/adventskalender-essbar-pstk_adventskalender-pstk/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding20-left.padding20-top.padding20-right": [
+                  {
+                    "msv-id": "teaser",
+                    "title": "Aktionsalarm",
+                    "imgUrl": "//mytoysgroup.scene7.com/is/image/myToysGroup/y_anmeldung_weihnachtscountdown5?$rtf_mt_teaser-y_xl$",
+                    "alt": "Aktionsalarm",
+                    "link": "/c/aktionsalarm.html"
+                  }
+                ]
+              },
+              {
+                "div.split-panel.w100.padding20-top" :[
+                  {
+                    "div.panel.w50.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Artikel aus unserer TV-Werbung",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_bewerbungsteaser-tv-kampagne?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Artikel aus unserer TV-Werbung",
+                        "link" : "/mkt/tvwerbung"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding20-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Schlitten",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_schlitten?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Schlitten",
+                        "link" : "/sport-garten/wintersport/schlitten/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.marken-banner.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Markenbanner mit bewegenden Logos",
+                    "height" : "95px",
+                    "color" : "#EEE"
+                  }
+                ]
+              },
+              {
+                "div.split-panel.w100.padding20-top" :[
+                  {
+                    "div.panel.w50.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Werkbänke &amp; Zubehör",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_werkbaenke?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Werkbänke &amp; Zubehör",
+                        "link" : "/spielzeug-spiele/werkbaenke-zubehoer/"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding20-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Küchen &amp; Kaufläden",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_welcomekw43_kuechen_kauflaeden?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Küchen &amp; Kaufläden",
+                        "link" : "/spielzeug-spiele/kueche-kaufladen/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding20-left.padding20-top.padding20-right": [
+                  {
+                    "msv-id": "teaser",
+                    "title": "Teaser (Knaller der Woche)",
+                    "imgUrl": "//mytoysgroup.scene7.com/is/image/myToysGroup/y_kdw_kw45_0?$rtf_mt_teaser-y_xl$",
+                    "alt": "Knaller der Woche",
+                    "link": "/mkt/knaller-der-woche"
+                  }
+                ]
+              },
+              {
+                "div.text.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Media Text (aufklappbar): Kinderwuensche sind unser Spezialgebiet!",
+                    "height" : "100px",
+                    "color" : "#EEE"
+                  }
+                ]
+              },
+              {
+                "div.special-teaser.w100.padding20-top" :[
+                  {
+                    "div.panel.w50.padding20-left.padding10-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Playmobil",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_playmobil2?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Playmobil",
+                        "link" : "/spielzeug-spiele/playmobil-sub/"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding20-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Revell",
+                        "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_revell?$rtf_mt_teaser-b_xl$",
+                        "alt" : "Revell",
+                        "link" : "/revell/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.newsletter.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Newsletter Anmeldung (Formular)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.recommendations.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Empfehlungen (Redaktion, Social Media, Unsere Blogs, App Empfehlungen)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.kombishopping-teaser.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Kombishopping Teaser : mytoys, mirapodo, ambellis, yomonda",
+                    "height" : "150px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Service, myTyoys, Lieferung, Zahlungsarten",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.wins.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Unsere Filialen, Sicher einkaufen, Unsere Auszeichnungen",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding20-left.padding20-right.padding20-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Spielzeug Marken, Kindermode Marken, Baby Marken, Top ...",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.small-footer.w100.padding20-left.padding20-right.padding20-top":[
+                  ["legal-box"]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

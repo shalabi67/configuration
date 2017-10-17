@@ -1,0 +1,33 @@
+
+
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 10000,
+  "page": {
+    "libs" : ["main-js", "main-css", "specific-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "msv-id" : "slider",
+            "title" : "Slider",
+            "images" : [
+              {
+                "url" : "url",
+                "link" : "link",
+                "alt" : "alt",
+                "title" : "title"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

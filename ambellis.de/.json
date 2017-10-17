@@ -1,0 +1,262 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "components" : [],
+  "pageRefresh": 10000,
+  "page": {
+    "libs" : ["global-js", "global-css"],
+    "html": [
+      {
+        "body.background": [
+          {
+            "div#top.main-container.shadow":[
+              ["header"],
+              {
+                "div.padding20.padding15-top" :[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Mit dabei Versandkostenfrei",
+                    "height" : "100px",
+                    "color" : "rgba(255, 18, 2, 0.31)"
+                  }
+                ]
+              },
+              {
+                "div.padding20-left.padding20-right.padding10-top" :[
+                  {
+                    "msv-id" : "!slider",
+                    "title" : "",
+                    "images" : [
+                      {
+                        "url" : "//ambellis.scene7.com/is/image/ambellis/j-strick2-kat?$rtf_amb_teaser-jumbo_xl$",
+                        "link" : "/bekleidung/pullover-strickjacken/",
+                        "alt" : "Pullover &amp; Strickjacken",
+                        "title" : "Jetzt shoppen!"
+                      },
+                      {
+                        "url" : "//ambellis.scene7.com/is/image/ambellis/j-triumph?$rtf_amb_teaser-jumbo_xl$",
+                        "link" : "/waesche/",
+                        "alt" : "15% auf Triumph",
+                        "title" : "Jetzt shoppen!"
+                      },
+                      {
+                        "url" : "//ambellis.scene7.com/is/image/ambellis/j-esprit_gewinnspiel_hw16?$rtf_amb_teaser-jumbo_xl$",
+                        "link" : "/c/espritgewinnspiel.html",
+                        "alt" : "Jetzt mitmachen und gewinnen!",
+                        "title" : "Jetzt mitmachen und gewinnen!"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.w100.padding10-top" :[
+                  {
+                    "div.w33.padding20-left":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Zusätzlich -20% auf Mützen",
+                        "imgUrl" : "http://ambellis.scene7.com/is/image/ambellis/m-pullover-strickjacken?$rtf_amb_teaser-m_xl$",
+                        "alt" : "Zusätzlich -20% auf Mützen",
+                        "link" : "http://www.mytoys.de/mode-schuhe/muetzen-huete-caps",
+                        "height" : "350px"
+                      }
+                    ]
+                  },
+                  {
+                    "div.w33.padding20-left":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Adventskalender",
+                        "imgUrl" : "http://ambellis.scene7.com/is/image/ambellis/m-bunt-bunter?$rtf_amb_teaser-m_xl$",
+                        "alt" : "Adventskalender",
+                        "link" : "http://www.mytoys.de/adventskalender-essbar-pstk_adventskalender-pstk/",
+                        "height" : "350px"
+                      }
+                    ]
+                  },
+                  {
+                    "div.w33.padding20-left.padding20-right":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Adventskalender",
+                        "imgUrl" : "http://ambellis.scene7.com/is/image/ambellis/m-ponchos-preis?$rtf_amb_teaser-m_xl$",
+                        "alt" : "Adventskalender",
+                        "link" : "http://www.mytoys.de/adventskalender-essbar-pstk_adventskalender-pstk/",
+                        "height" : "350px"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.special-teaser.w100" :[
+                  {
+                    "div.panel.w50.padding10-right.padding10-top":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Jetzt shoppen!",
+                        "alt" : "Marke Hilfiger Denim",
+                        "imgUrl" : "//ambellis.scene7.com/is/image/ambellis/b_hilfiger?$rtf_amb_teaser-b_xl$",
+                        "link" : "/hilfiger-denim/"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding10-top":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Jetzt shoppen!",
+                        "alt" : "Letzt Teile min. 50% reduziert",
+                        "imgUrl" : "//ambellis.scene7.com/is/image/ambellis/b_letzte-teile-mind-50?$rtf_amb_teaser-b_xl$",
+                        "link" : "/16a/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.marken-banner.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Markenbanner mit bewegenden Logos",
+                    "height" : "95px",
+                    "color" : "#EEE"
+                  }
+                ]
+              },
+              {
+                "div.special-teaser.w100" :[
+                  {
+                    "div.panel.w50.padding10-right.padding10-top":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Jetzt shoppen!",
+                        "alt" : "Jeans ab 29,95 €",
+                        "imgUrl" : "//ambellis.scene7.com/is/image/ambellis/b-jeans-preis?$rtf_amb_teaser-b_xl$",
+                        "link" : "/bekleidung/jeans/?sort=priceAsc"
+                      }
+                    ]
+                  },
+                  {
+                    "div.panel.w50.padding10-left.padding10-top":[
+                      {
+                        "msv-id" : "teaser",
+                        "title" : "Jetzt shoppen!",
+                        "alt" : "Marke Esprit",
+                        "imgUrl" : "//ambellis.scene7.com/is/image/ambellis/b_esprit_brand_w16?$rtf_amb_teaser-b_xl$",
+                        "link" : "/esprit_edc-by-esprit_esprit-bodywear_esprit-collection_esprit-for-mums_esprit-sports/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.karusell.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Product slider",
+                    "images" : [
+                      {
+                        "url" : "//ambellis.scene7.com/is/image/ambellis/ext/4854976-01.jpg?wid=400&hei=500&fmt=webp&qlt=25,1&resMode=trilin&op_usm=0.9,1,5,1",
+                        "link" : "/bekleidung/pullover-strickjacken/",
+                        "alt" : "Pullover &amp; Strickjacken",
+                        "title" : "Jetzt shoppen!"
+                      },
+                      {
+                        "url" : "//ambellis.scene7.com/is/image/ambellis/ext/4947324-01.jpg?wid=400&hei=500&fmt=webp&qlt=25,1&resMode=trilin&op_usm=0.9,1,5,1",
+                        "link" : "/desigual/",
+                        "alt" : "Gratis Desigual Schmucktasche",
+                        "title" : "Jetzt zugreifen!"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div.panel.w100.padding20-left.padding20-top.padding20-right": [
+                  {
+                    "msv-id": "teaser",
+                    "title": "Jetzt shoppen!",
+                    "imgUrl": "//ambellis.scene7.com/is/image/ambellis/y_neuheiten-he2?$rtf_amb_teaser-y_xl$",
+                    "alt": "Neuheiten",
+                    "link": "/bekleidung/new/"
+                  }
+                ]
+              },
+              {
+                "div.newsletter.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Newsletter Anmeldung (Formular)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.recommendations.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Empfehlungen (Redaktion, Social Media, Unsere Blogs, App Empfehlungen)",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.kombishopping-teaser.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Kombishopping Teaser : mytoys, mirapodo, ambellis, yomonda",
+                    "height" : "150px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Service, myTyoys, Lieferung, Zahlungsarten",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.wins.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Unsere Filialen, Sicher einkaufen, Unsere Auszeichnungen",
+                    "height" : "200px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.link-box.w100.padding10-top":[
+                  {
+                    "msv-id" : "placeholder",
+                    "title" : "Link Box: Spielzeug Marken, Kindermode Marken, Baby Marken, Top ...",
+                    "height" : "400px",
+                    "color" : "rgba(0, 179, 255, 0.65)"
+                  }
+                ]
+              },
+              {
+                "div.small-footer.w100.padding10-top":[
+                  ["copyright"]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

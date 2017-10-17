@@ -1,0 +1,31 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/test",
+  "components" : [],
+  "pageRefresh": 2000,
+  "page": {
+    "libs": [],
+    "html": [
+      {
+        "body": [
+          {
+            "div.main-container" : [
+              {
+              "msv-id" : "teaser",
+              "title" : "Artikel aus unserer TV-Werbung",
+              "imgUrl" : "//mytoysgroup.scene7.com/is/image/myToysGroup/b_kw45_bewerbungsteaser-tv-kampagne?$rtf_mt_teaser-b_xl$",
+              "alt" : "Artikel aus unserer TV-Werbung",
+              "link" : "/mkt/tvwerbung"
+              }
+            ]
+          }
+        ]
+      }
+
+    ]
+  }
+}

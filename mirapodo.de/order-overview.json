@@ -1,0 +1,52 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "pageRefresh": 2000,
+  "components" : [
+    {
+      "msv-id" : "order",
+      "type" : "TYPE_BODY"
+    },
+    {
+      "msv-id" : "header",
+      "type" : "TYPE_COMPONENT"
+    },
+    {
+      "msv-id" : "main-css",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "main-js",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "placeholder",
+      "containerId" : 1,
+      "type" : "TYPE_COMPONENT",
+      "height" : "200px",
+      "color" : "grey",
+      "title" : "Checkout-Footer"
+    },
+    {
+      "msv-id" : "placeholder",
+      "containerId" : 2,
+      "type" : "TYPE_COMPONENT",
+      "height" : "200px",
+      "color" : "rgba(88, 255, 0, 0.65)",
+      "title" : "Teaser 1"
+    },
+    {
+      "msv-id" : "placeholder",
+      "containerId" : 3,
+      "type" : "TYPE_COMPONENT",
+      "height" : "200px",
+      "color" : "rgba(88, 255, 0, 0.65)",
+      "title" : "Teaser 2"
+    }
+  ],
+  "page": null
+}

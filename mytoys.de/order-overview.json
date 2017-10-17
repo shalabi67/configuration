@@ -1,0 +1,32 @@
+{
+  "locale": {
+    "shopId" : "mytyos.de",
+    "country" : "DE",
+    "language" : "DE"
+  },
+  "path" : "/",
+  "pageRefresh": 2000,
+  "components" : [
+    {
+      "msv-id" : "order",
+      "type" : "TYPE_BODY"
+    },
+    {
+      "msv-id" : "main-css",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "main-js",
+      "type" : "TYPE_LIBRARY"
+    },
+    {
+      "msv-id" : "placeholder",
+      "type" : "TYPE_COMPONENT",
+      "containerId" : 1,
+      "height" : "50px",
+      "color" : "grey",
+      "title" : "Kombi-Shopping Header"
+    }
+  ],
+  "page": null
+}
